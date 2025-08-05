@@ -45,11 +45,3 @@ Watch the full walkthrough on YouTube: [Gas Filling Station CRM Application | Sa
 
 ---
 
-## 📌 Ideal For
-
-- Salesforce Admins & Developers  
-- B.Tech / MCA Students  
-- Beginners & Intermediate Learners  
-- Project Submissions / Resume Building
-
----
