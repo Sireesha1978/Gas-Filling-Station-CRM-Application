@@ -10,7 +10,10 @@ To automate fuel inventory tracking, customer management, transaction recording,
 
 ## 📽️ Demo Video
 
-Watch the full walkthrough on YouTube: [Gas Filling Station CRM Application | Salesforce Project Demo](https://www.youtube.com/watch?v=hzd_Vmcksgk)
+Watch the full walkthrough on Google Drive:  
+[🔗 Gas Filling Station CRM Application | Salesforce Project Demo](https://drive.google.com/file/d/1edpHaFR4E6FlesfspWfeND8dAXRiqnqt/view?usp=sharing)
+
+This video showcases the end-to-end functionality of the Gas Filling Station CRM Application built on Salesforce, including custom object creation, flows, dashboards, and real-time automation for managing fuel sales and customer interactions.
 
 ---
 
